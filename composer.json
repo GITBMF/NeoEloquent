@@ -1,5 +1,5 @@
 {
-    "name": "upgrade/neoeloquent",
+    "name": "gohze/neoeloquent",
     "description": "Laravel wrapper for the Neo4j graph database REST interface",
     "keywords": [
         "laravel",
